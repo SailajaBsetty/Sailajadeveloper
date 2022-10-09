@@ -2,8 +2,6 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Sailaja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sailaja--01629954/)](https://www.linkedin.com/in/sailaja--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Sailaja-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sailaja-yellow)](https://stackoverflow.com/users/3687251/sailaja-)
 
 I'm
 Full Stack Solution Architect
